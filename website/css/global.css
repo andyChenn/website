@@ -1,0 +1,20 @@
+body{
+	font-family: "微软雅黑";
+	background-image: url(../img/backgroud.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+address{
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+	color: white;
+}
+address a{
+	color: yellow;
+}
+footer{
+	position: absolute;
+	color: white;
+	bottom: 20px;
+}
